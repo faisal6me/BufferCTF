@@ -30,3 +30,5 @@ picoCTF{h4ndY_d4ndY_sh311c0d3_5843b402}
 
 https://github.com/Dvd848/CTFs/blob/master/2019_picoCTF/OverFlow_0.md
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(gdb) disassemble vuln
